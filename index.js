@@ -17,3 +17,4 @@ async function zagruz() {
 for (let i = 0; i < 5; i++) {
   zagruz()
 }
+wait(1200)
