@@ -18,3 +18,5 @@ for (let i = 0; i < 5; i++) {
   zagruz()
 }
 wait(1200)
+userdata = {}
+userdata.accounts = localStorage.getItem('accounts')
